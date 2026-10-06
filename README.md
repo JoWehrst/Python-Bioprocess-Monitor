@@ -41,6 +41,13 @@ Figure shows data gathered from the 5th batch and were tested to be within param
 * The bottom right graph shows the dissolved oxygen throughout the process. As shown, the dissolved oxygen follows a decreasing trend throughout the process, starting at approximately 90% and decreasing to below 10% by the end of the batch.
 
 ## Summary Table
-[convertcsv.md](../../../../Downloads/convertcsv.md)
+|Batch id|pH Optimal Percent (%)       |Temperature Optimal (%)|C_product (9_L^-1)                           |
+|--------|-----------------------------|-----------------------|---------------------------------------------|
+|1       |36.08                        |51.55                  |46.5                                         |
+|2       |34.71                        |55.37                  |50.8                                         |
+|3       |36.99                        |46.58                  |44.6                                         |
+|4       |54.12                        |62.35                  |48.6                                         |
+|5       |16.51                        |49.54                  |24.7                                         |
+
 
 Table shows how different batches managed to maintain optimal pH and temperature under parameters B (pH between 5.1 and 5.5, temperature between 34.5 and 35.5 °C) and comparing that to product produced. Most batches seem to remain in optimal pH at ~35% and optimal temperature range ~50% of the time. There are two notable exceptions being batch 4 at 54.12% of the time in optimal pH conditions and 62.35% in optimal temperature conditions, and batch 5 at 16.51% of the time in optimal pH conditions. Similarly most batches seem to produce between 44–51 g/L of product, with batch 5 being again, an exception with only producing a final amount of 24.7 g/L. This could be due to suboptimal pH conditions the cells were exposed to, though further research and investigation would be needed to validate this if it was a real world example.
